@@ -1,0 +1,13 @@
+{
+  "name": "my_wake_word",
+  "version": "v1",
+  "author": "Local Training",
+  "website": "",
+  "wake_words": [
+    "my wake word"
+  ],
+  "model": "https://raw.githubusercontent.com/BareMetalTinker/voice-models/main/my_wake_word/my_wake_word.tflite",
+  "probability_cutoff": 0.93,
+  "sliding_window_average_size": 10,
+  "tensor_arena_size": 30000
+}
