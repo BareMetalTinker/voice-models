@@ -3,7 +3,7 @@
   "wake_word": "Stop",
   "author": "Kevin Ahrendt",
   "website": "https://www.kevinahrendt.com/",
-  "model": "https://github.com/OHF-Voice/micro-wake-word/releases/download/stop/stop.tflite",
+  "model": "stop.tflite",
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
