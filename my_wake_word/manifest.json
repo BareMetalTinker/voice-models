@@ -3,7 +3,7 @@
   "wake_word": "my wake word",
   "author": "Local Training",
   "website": "",
-  "model": "my_wake_word.tflite",
+  "model": "https://raw.githubusercontent.com/BareMetalTinker/voice-models/main/my_wake_word/my_wake_word.tflite",
   "trained_languages": ["en"],
   "version": 2,
   "micro": {
